@@ -1,0 +1,1 @@
+export const ip = 'http://localhost:28000';//接口地址
